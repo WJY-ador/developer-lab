@@ -1,4 +1,4 @@
-# consultant-side-lab
+# Developer-side-lab
 
 Salesforce 컨설턴트로 일하면서, 여기저기 흩어져 있던 제 데이터를 한곳에 모으려고 만든 개인 AI 도구 다섯 개의 목록입니다.
 
