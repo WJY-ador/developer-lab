@@ -59,7 +59,7 @@ Salesforce 릴리스 노트·릴리스 업데이트를 모아, 기준 org에서 
 <sub>Hybrid BM25 + local bge-m3 search over my markdown notes, exposed as a single MCP tool. No paid model calls.</sub>
 
 **[kakao-analytics](https://github.com/WJY-ador/kakao-analytics)** <sub>· 2026-08-26 시작 · 운영 중</sub><br>
-맥용 카카오톡이 이미 제 기기에 저장해 둔 제 대화 기록을 그 기기 안에서만 읽어 한곳에 모으고, 통계·검색을 만듭니다. 기록과 결과는 기기 밖으로 나가지 않습니다.<br>
+맥용 카카오톡이 이미 제 기기에 저장해 둔 제 대화 기록을 그 기기 안에서만 읽어 한곳에 모으고, 통계·검색을 만듭니다.<br>
 <sub>My own chat history, gathered locally on my Mac for search and stats. Nothing leaves the machine.</sub>
 
 ## 공통으로 지키는 것
