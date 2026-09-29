@@ -1,6 +1,6 @@
 # Developer-side-lab
 
-Salesforce 컨설턴트로 일하면서, 여기저기 흩어져 있던 제 데이터를 한곳에 모으려고 만든 개인 AI 도구 다섯 개의 목록입니다.
+여기저기 흩어져 있던 제 데이터를 한곳에 모으려고 만든 개인 AI 도구 다섯 개의 목록입니다.
 
 > **English** — A hub for five personal AI tools I built between July and September 2026 while working as a Salesforce consultant in Seoul.
 > I thought that doing agentic AI first required gathering the data about me, scattered across many places, into one place. Two tools gather outside information (Salesforce release changes, a twice-weekly discourse scan), one turns collected posts into my own judgment records, one makes all of those notes searchable again, and one gathers my own chat history on my Mac for search and stats.
