@@ -6,7 +6,7 @@
 > I thought that doing agentic AI first required gathering the data about me, scattered across many places, into one place. Two tools gather outside information (Salesforce release changes, a twice-weekly discourse scan), one turns collected posts into my own judgment records, one makes all of those notes searchable again, and one gathers my own chat history on my Mac for search and stats.
 > Everything runs on one Mac and keeps personal data local; the four tools other than NewsCard call models only through a subscription Claude Code CLI or a local model, with no pay-per-use API keys. Four of the five are README-only write-ups; the code stays private because it is bound to my personal files.
 
-동작 환경: macOS 한 대 · launchd 무인 실행 · 구독형 Claude Code CLI
+동작 환경: macOS 한 대 · launchd 무인 실행 
 
 ## 왜 만들었나
 
